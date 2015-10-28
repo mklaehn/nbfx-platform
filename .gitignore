@@ -1,0 +1,11 @@
+**/build/
+**/dist/
+**/nbproject/private/
+**/.nb-gradle
+**/.gradle
+
+# Eclipse specific
+**/.classpath
+**/.project
+**/.settings/
+**/bin/
